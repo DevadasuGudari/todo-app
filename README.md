@@ -86,7 +86,3 @@ Tasks are saved in the browser's `localStorage`, so they stay after a refresh.
 - **Dark mode**: a dark theme switch.
 - **Delete confirmation**: ask before deleting.
 - **API connection**: save tasks on a server.
-
-## Author
-
-Bhanusri Manukonda
